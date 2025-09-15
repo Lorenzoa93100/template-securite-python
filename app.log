@@ -1,0 +1,36 @@
+2025-09-15 11:08:40,658 - TP1 - INFO - Starting TP1
+2025-09-15 11:08:49,692 - TP1 - INFO - Starting TP1
+2025-09-15 11:09:27,534 - TP1 - INFO - Starting TP1
+2025-09-15 12:25:34,108 - TP1 - INFO - Starting TP1
+2025-09-15 12:25:34,109 - TP1 - INFO - Available network interfaces:
+2025-09-15 12:25:34,109 - TP1 - INFO - [0] lo (127.0.0.1)
+2025-09-15 12:25:34,109 - TP1 - INFO - [1] eth0 (172.18.73.36)
+2025-09-15 12:25:36,783 - TP1 - INFO - Selected interface: eth0
+2025-09-15 12:25:36,783 - TP1 - INFO - Starting packet capture on eth0 for 30 seconds...
+2025-09-15 12:25:36,784 - TP1 - ERROR - Error during packet capture: [Errno 1] Operation not permitted
+2025-09-15 12:25:36,784 - TP1 - WARNING - No packets captured. Cannot perform analysis.
+2025-09-15 12:36:47,546 - TP1 - INFO - Starting TP1
+2025-09-15 12:36:47,546 - TP1 - INFO - Available network interfaces:
+2025-09-15 12:36:47,546 - TP1 - INFO - [0] lo (127.0.0.1)
+2025-09-15 12:36:47,547 - TP1 - INFO - [1] eth0 (172.18.73.36)
+2025-09-15 12:36:50,935 - TP1 - WARNING - Interface selection canceled
+2025-09-15 12:36:50,935 - TP1 - ERROR - No interface selected. Cannot capture traffic.
+2025-09-15 12:36:50,936 - TP1 - WARNING - No packets captured. Cannot perform analysis.
+2025-09-15 12:36:50,936 - TP1 - WARNING - No protocol data available for graph generation
+2025-09-15 12:36:50,936 - TP1 - INFO - Generating PDF report: report.pdf
+2025-09-15 12:36:50,941 - TP1 - INFO - PDF report successfully generated: report.pdf
+2025-09-15 12:38:46,587 - matplotlib.font_manager - INFO - generated new fontManager
+2025-09-15 12:38:46,901 - TP1 - INFO - Starting TP1
+2025-09-15 12:38:46,901 - TP1 - INFO - Available network interfaces:
+2025-09-15 12:38:46,901 - TP1 - INFO - [0] lo (127.0.0.1)
+2025-09-15 12:38:46,901 - TP1 - INFO - [1] eth0 (172.18.73.36)
+2025-09-15 12:38:57,418 - TP1 - INFO - Selected interface: eth0
+2025-09-15 12:38:57,418 - TP1 - INFO - Starting packet capture on eth0 for 30 seconds...
+2025-09-15 12:39:27,493 - TP1 - INFO - Captured 47 packets in 30.07 seconds
+2025-09-15 12:39:27,494 - TP1 - INFO - Protocol distribution: {'IP': 47, 'UDP': 4, 'DNS': 4, 'TCP': 43, 'HTTPS': 43}
+2025-09-15 12:39:27,494 - TP1 - INFO - Starting traffic analysis...
+2025-09-15 12:39:27,495 - TP1 - INFO - Filtering packets for protocol: TCP
+2025-09-15 12:39:27,495 - TP1 - INFO - Found 43 packets matching filter TCP
+2025-09-15 12:39:28,047 - TP1 - INFO - Graph saved to temp_graph.png
+2025-09-15 12:39:28,047 - TP1 - INFO - Generating PDF report: report.pdf
+2025-09-15 12:39:28,519 - TP1 - INFO - PDF report successfully generated: report.pdf

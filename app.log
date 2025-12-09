@@ -34,3 +34,53 @@
 2025-09-15 12:39:28,047 - TP1 - INFO - Graph saved to temp_graph.png
 2025-09-15 12:39:28,047 - TP1 - INFO - Generating PDF report: report.pdf
 2025-09-15 12:39:28,519 - TP1 - INFO - PDF report successfully generated: report.pdf
+2025-12-09 16:25:36,580 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf: Can not load face (SFNT font table missing; error code 0x8e)
+2025-12-09 16:25:36,691 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/google-noto-color-emoji-fonts/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2025-12-09 16:25:36,975 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/google-noto-sans-mono-cjk-vf-fonts/NotoSansMonoCJK-VF.ttc: Can not load face (SFNT font table missing; error code 0x8e)
+2025-12-09 16:25:37,015 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/google-noto-serif-cjk-vf-fonts/NotoSerifCJK-VF.ttc: Can not load face (SFNT font table missing; error code 0x8e)
+2025-12-09 16:25:37,111 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/google-noto-sans-cjk-vf-fonts/NotoSansCJK-VF.ttc: Can not load face (SFNT font table missing; error code 0x8e)
+2025-12-09 16:25:37,419 - matplotlib.font_manager - INFO - generated new fontManager
+2025-12-09 16:25:38,621 - TP1 - INFO - TP1 - IDS/IPS MAISON
+2025-12-09 16:25:38,621 - TP1 - INFO - Analyse et détection d'attaques réseau
+2025-12-09 16:25:38,621 - TP1 - INFO - Durée de capture: 30 secondes
+2025-12-09 16:25:38,621 - TP1 - INFO - Filtre de protocole: all
+2025-12-09 16:25:38,621 - TP1 - INFO - Rapport de sortie: rapport_ids_ips.pdf
+2025-12-09 16:25:38,621 - TP1 - INFO - [Étape 1/4] Initialisation de la capture réseau...
+2025-12-09 16:25:38,622 - TP1 - INFO - Available network interfaces:
+2025-12-09 16:25:38,622 - TP1 - INFO - [0] lo (127.0.0.1)
+2025-12-09 16:25:38,622 - TP1 - INFO - [1] wlp6s0 (10.184.30.231)
+2025-12-09 16:25:57,088 - TP1 - INFO - Selected interface: wlp6s0
+2025-12-09 16:25:57,088 - TP1 - INFO - [Étape 2/4] Capture du trafic réseau (30s)...
+2025-12-09 16:25:57,088 - TP1 - INFO - Starting packet capture on wlp6s0 for 30 seconds...
+2025-12-09 16:25:57,089 - TP1 - ERROR - Error during packet capture: [Errno 1] Operation not permitted
+2025-12-09 16:25:57,089 - TP1 - WARNING - Aucun paquet capturé. Vérifiez votre interface réseau.
+2025-12-09 16:36:37,141 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/google-noto-sans-cjk-vf-fonts/NotoSansCJK-VF.ttc: Can not load face (SFNT font table missing; error code 0x8e)
+2025-12-09 16:36:37,148 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf: Can not load face (SFNT font table missing; error code 0x8e)
+2025-12-09 16:36:37,149 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/google-noto-sans-mono-cjk-vf-fonts/NotoSansMonoCJK-VF.ttc: Can not load face (SFNT font table missing; error code 0x8e)
+2025-12-09 16:36:37,184 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/google-noto-color-emoji-fonts/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2025-12-09 16:36:37,213 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/google-noto-serif-cjk-vf-fonts/NotoSerifCJK-VF.ttc: Can not load face (SFNT font table missing; error code 0x8e)
+2025-12-09 16:36:37,262 - matplotlib.font_manager - INFO - generated new fontManager
+2025-12-09 16:36:37,625 - TP1 - INFO - TP1 - IDS/IPS MAISON
+2025-12-09 16:36:37,625 - TP1 - INFO - Analyse et détection d'attaques réseau
+2025-12-09 16:36:37,625 - TP1 - INFO - Durée de capture: 30 secondes
+2025-12-09 16:36:37,625 - TP1 - INFO - Filtre de protocole: all
+2025-12-09 16:36:37,625 - TP1 - INFO - Rapport de sortie: rapport_ids_ips.pdf
+2025-12-09 16:36:37,625 - TP1 - INFO - [Étape 1/4] Initialisation de la capture réseau...
+2025-12-09 16:36:37,625 - TP1 - INFO - Available network interfaces:
+2025-12-09 16:36:37,625 - TP1 - INFO - [0] lo (127.0.0.1)
+2025-12-09 16:36:37,625 - TP1 - INFO - [1] wlp6s0 (10.184.30.231)
+2025-12-09 16:36:37,625 - TP1 - WARNING - Please enter a valid number
+2025-12-09 16:36:44,357 - TP1 - INFO - Selected interface: wlp6s0
+2025-12-09 16:36:44,358 - TP1 - INFO - [Étape 2/4] Capture du trafic réseau (30s)...
+2025-12-09 16:36:44,358 - TP1 - INFO - Starting packet capture on wlp6s0 for 30 seconds...
+2025-12-09 16:37:14,371 - TP1 - INFO - Captured 1185 packets in 30.01 seconds
+2025-12-09 16:37:14,409 - TP1 - INFO - Protocol distribution: {'IP': 1159, 'UDP': 970, 'TCP': 175, 'HTTPS': 175, 'DNS': 10}
+2025-12-09 16:37:14,410 - TP1 - INFO - [Étape 3/4] Analyse du trafic et détection d'attaques...
+2025-12-09 16:37:14,410 - TP1 - INFO - Starting traffic analysis...
+2025-12-09 16:37:14,478 - TP1 - INFO - Aucune activité suspecte détectée.
+2025-12-09 16:37:14,478 - TP1 - INFO - [Étape 4/4] Génération du rapport PDF...
+2025-12-09 16:37:14,883 - TP1 - INFO - Graph saved to temp_graph.png
+2025-12-09 16:37:14,883 - TP1 - INFO - Generating PDF report: rapport_ids_ips.pdf
+2025-12-09 16:37:15,179 - TP1 - INFO - PDF report successfully generated: rapport_ids_ips.pdf
+2025-12-09 16:37:15,180 - TP1 - INFO - Analyse terminée avec succès!
+2025-12-09 16:37:15,180 - TP1 - INFO - Rapport disponible: rapport_ids_ips.pdf
